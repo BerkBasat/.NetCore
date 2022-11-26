@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NetCoreCodeFirst\\NetCoreCodeFirst\\Models\\Context",
+    "\\NetCoreFakeRepository\\NetCoreFakeRepository"
   ],
-  "SelectedNode": "\\NetCoreCodeFirst",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
